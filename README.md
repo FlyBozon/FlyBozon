@@ -1,6 +1,6 @@
 # About Me
 
-Currently pursuing studies in Robotics, Image Processing, and Control Systems with a focus on intelligent algorithms and machine perception. Interested in the development of autonomous systems capable of interpreting their environment - and occasionally questioning their existence.
+Currently pursuing studies in Automatic Control, Cybernetics, and Robotics with a focus on intelligent algorithms and machine perception. Interested in the development of autonomous systems capable of interpreting their environment - and occasionally questioning their existence.
 
 My work involves practical applications of computer vision, real-time data processing, and control loop design. I’m particularly invested in the intersection of machine learning and robotics, where theory meets slightly unpredictable hardware behavior.
 
